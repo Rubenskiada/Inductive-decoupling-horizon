@@ -1,0 +1,12 @@
+﻿cff-version: 1.2.0
+message: "If you use this preprint or solver, please cite it as below."
+type: software
+title: "The Inductive Decoupling Horizon: Exact dq-Domain Passivity-Anchor Siting and Fast N-1 Certification for Converter-Dominated Transmission Grids"
+authors:
+  - family-names: "Aronica"
+    given-names: "Ruben"
+version: "1.0.0"
+doi: "10.5281/zenodo.24458196"
+date-released: "2026-11-23"
+url: "https://github.com/Rubenskiada/Inductive-decoupling-horizon"
+license: MIT

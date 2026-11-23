@@ -1,11 +1,11 @@
-# The Inductive Decoupling Horizon
+﻿# The Inductive Decoupling Horizon
 
 **Exact $dq$-Domain Passivity-Anchor Siting and Fast $N-1$ Certification for Converter-Dominated Transmission Grids**
 
 [![Preprint](https://img.shields.io/badge/Preprint-PDF-1e3a5f.svg)](inductive_decoupling_horizon_preprint.pdf)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776ab.svg)](ieee39_passivity_siting.py)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0f766e.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/Zenodo-DOI%20Pending-64748b.svg)](#citation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24458196.svg)](https://doi.org/10.5281/zenodo.24458196)
 
 **Author:** Ruben Aronica — *Independent Researcher, Gheorgheni, Romania*  
 **Manuscript:** [Read the Full Technical Preprint (PDF)](inductive_decoupling_horizon_preprint.pdf)
@@ -86,10 +86,11 @@ If you use this solver or theoretical framework in your research, please cite:
   year         = {2026},
   month        = nov,
   howpublished = {Technical Preprint, GitHub / Zenodo},
+  doi          = {10.5281/zenodo.24458196},
   url          = {https://github.com/Rubenskiada/Inductive-decoupling-horizon}
 }
 ```
-*(Update with the minted Zenodo DOI after publishing release `v1.0.0`.)*
+
 
 ## License
 
